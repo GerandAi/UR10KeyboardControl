@@ -1,0 +1,5 @@
+[left:4] [right:6] [up:8] [down:2] [clear:C] [finish:0]
+[W=retract] [S=extend] [(A\D)=yaw] [(Q\E)=roll] [(P\L)=pitch]
+[R=retern to reference point] [ENTER=continue] [5=change step length]
+[for instructions: input I] (All keys do NOT need to be in Caps)
+[SPACE=press SPACE to continue to stored pose]
